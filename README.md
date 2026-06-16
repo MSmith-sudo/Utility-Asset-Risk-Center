@@ -2,7 +2,7 @@
 
 ## Overview
 
-The AI Water Infrastructure Failure Predictor is a machine learning project that estimates the failure risk of water pipes based on infrastructure conditions such as pipe age, material, pressure, soil type, previous breaks, leak reports, and location type.
+The Utility Asset Risk Center is a machine learning project that estimates the failure risk of water pipes based on infrastructure conditions such as pipe age, material, pressure, soil type, previous breaks, leak reports, and location type.
 
 This project uses a synthetic dataset to simulate water utility infrastructure records and demonstrates a full machine learning workflow, including data generation, model training, feature importance analysis, explainable prediction, and an interactive Streamlit dashboard.
 
